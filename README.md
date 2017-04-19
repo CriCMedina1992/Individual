@@ -1,2 +1,2 @@
-# Individual
-proyecto
+# Proyecto
+# Proyecto
